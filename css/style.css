@@ -1,0 +1,55 @@
+body {
+    margin-left:33%;
+    margin-right:33%;
+    background-color:#d6d6d6;
+    font-size: 12pt;
+}
+
+.form {
+    margin-top:1%;
+    margin-bottom:5%;
+    -webkit-box-shadow: 1px 1px 4px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    1px 1px 4px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:        1px 1px 4px 0px rgba(50, 50, 50, 0.75);
+    background-color:white;
+ }
+
+.about_me {
+    margin-left:10%;
+    margin-right:10%;
+     padding-top:5%;
+     border-bottom:1px solid black;
+}
+
+ .about_me h2 {
+    text-align:center;
+}
+ .main_photo {
+    margin:0 auto;
+    width: 50%;
+}
+
+ img {
+    width:100%;
+}
+
+.about_me p {
+    text-align:left;
+}
+
+.points {
+    margin-left:10%;
+    margin-right:10%;
+    border-bottom:1px solid black;
+}
+.contacts {
+    margin-left:10%;
+    margin-right:10%;
+    border-bottom:1px solid black;
+
+}
+.feedback {
+    margin-left:10%;
+    margin-right:10%;
+    padding-bottom:5%;
+}
